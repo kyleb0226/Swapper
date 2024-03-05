@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  employee: one
+  matched_employee: one
+  match_type: MyString
+
+two:
+  employee: two
+  matched_employee: two
+  match_type: MyString
